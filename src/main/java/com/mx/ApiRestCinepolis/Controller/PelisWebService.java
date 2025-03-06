@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.mx.ApiRestCinepolis.model.Peliculas;
 import com.mx.ApiRestCinepolis.services.PelisServImp;
-import com.mx.TiendaRopa.model.Ropas;
+
 
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
